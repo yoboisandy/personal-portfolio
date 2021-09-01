@@ -31,7 +31,7 @@ nav a {
   color: white;
   font-size: x-large;
 }
-.welcome-section {
+#welcome-section {
   background: linear-gradient(rgb(77, 74, 74), rgb(29, 29, 31));
   color: white;
   text-align: center;
@@ -40,12 +40,12 @@ nav a {
   justify-content: center;
   align-items: center;
 }
-.welcome-section h1 {
+#welcome-section h1 {
   font-size: 60px;
   margin: 0;
   font-weight: 200;
 }
-.welcome-section p {
+#welcome-section p {
   font-size: 35px;
   color: rgb(214, 0, 82);
   font-weight: 200;
